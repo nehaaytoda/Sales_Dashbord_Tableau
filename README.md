@@ -15,10 +15,27 @@ The [**Sales Dashboard**](https://public.tableau.com/views/Sales_Dasboard_176311
 
 ### 🔍 Key Objectives
 
-* Analyze year-over-year sales performance
-* Identify sales trends over time
-* Monitor key sales metrics at a glance
-* Support strategic planning and performance tracking
+* Analyze total sales, total profit, and total quantity
+* Compare current-year performance against the previous year
+
+#### Sales Trends
+
+* Track monthly sales, profit, and quantity trends for both years
+* Identify months with the highest and lowest sales performance
+
+####  Product Subcategory Comparison
+
+* Compare sales performance across product subcategories
+* Evaluate year-over-year growth by subcategory
+* Analyze the relationship between sales and profit
+
+####  Weekly Sales & Profit Trends
+
+* Monitor weekly sales and profit for the current year
+* Display average weekly benchmarks
+* Highlight weeks performing above and below the average
+
+### 📷 Dashboard Preview
 
 <br />
 <p align="left">
@@ -35,10 +52,33 @@ The [**Customer Dashboard**](https://public.tableau.com/views/Sales_Dasboard_176
 
 ### 🔍 Key Objectives
 
-* Analyze customer demographics and segments
-* Understand customer behavior and purchasing patterns
-* Identify trends affecting customer engagement
-* Support customer-focused marketing strategies
+* Track total number of customers
+* Analyze total sales per customer
+* Monitor total number of orders
+* Compare current-year and previous-year performance
+
+####  Customer Trends
+
+* Observe monthly customer and sales trends
+* Identify months with the highest and lowest customer activity
+
+#### Customer Distribution by Number of Orders
+
+* Analyze customer distribution based on order frequency
+* Identify loyal, repeat, and one-time customers
+
+####  Top 10 Customers by Profit
+
+* Identify the top 10 most profitable customers
+* Analyze key metrics such as:
+
+  * Rank
+  * Number of orders
+  * Sales
+  * Profit
+  * Last order date
+
+### 📷 Dashboard Preview
 
 <br />
 <p align="left">
@@ -46,6 +86,26 @@ The [**Customer Dashboard**](https://public.tableau.com/views/Sales_Dasboard_176
 </p>
 
 <br />
+
+## Design & Interactivity
+
+### Dashboard Dynamics
+
+* Enable users to analyze historical data using a year selector
+* Allow seamless navigation between Sales and Customer dashboards
+* Provide interactive visuals for chart-driven filtering
+
+### Data Filters
+
+* Filter data by product attributes:
+
+  * Category
+  * Subcategory
+* Filter data by geographic attributes:
+
+  * Region
+  * State
+  * City
 
 ##  🛠 Tools & Technologies
 
