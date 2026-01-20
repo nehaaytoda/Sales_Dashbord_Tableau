@@ -7,7 +7,7 @@ This project focuses on building two interactive dashboards using **Tableau** to
 The dashboards provide clear insights into trends, patterns, and key metrics that support data-driven decision-making.
 
 
-## 📈 Sales Dashboard
+## Sales Dashboard
 
 ### 🎯 Purpose
 
